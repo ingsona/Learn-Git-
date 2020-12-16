@@ -16,3 +16,8 @@ git revert mirip git reset tapi tidak menghapus log dari head
 command 
     git revert <head>
 lalu akan memunculkan COMMIT_EDITMSG
+
+untuk menyimpan perubahan di github 
+gunakan git push
+command
+    git push -u origin master
