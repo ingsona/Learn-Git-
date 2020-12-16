@@ -27,4 +27,19 @@ gunakan git pull
 command 
     git pull origin master
 
-halo ini contoh git pull
+command
+    git remote add origin <link>
+    mirip git clone tapi ini dipakai untuk download dari repository orang lain
+command
+    git pull origin master
+
+PULL REQUEST
+adalah permintaan untuk menggabungkan suatu code
+
+untuk membuat branch baru
+command
+    git checkout -b <nama branch>
+
+untuk menghapus branch
+command 
+    git branch -b <nama branch>
