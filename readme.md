@@ -17,7 +17,12 @@ command
     git revert <head>
 lalu akan memunculkan COMMIT_EDITMSG
 
-untuk menyimpan perubahan di github 
+untuk mengupload perubahan code di github
 gunakan git push
 command
     git push -u origin master
+
+untuk mengambil code di github
+gunakan git pull
+command 
+    git pull origin master
