@@ -26,3 +26,5 @@ untuk mengambil code di github
 gunakan git pull
 command 
     git pull origin master
+
+halo ini contoh git pull
